@@ -12,17 +12,17 @@ const ContactSection = () => {
           <div className="flex flex-col items-center gap-3">
             <MapPin className="text-primary" size={28} />
             <h3 className="font-display font-bold text-lg">Dirección</h3>
-            <p className="text-muted-foreground text-sm">Calle Gran Vía 42<br />Madrid, España</p>
+            <p className="text-muted-foreground text-sm">Cra. 73a #53-33<br />Bogotá, Colombia</p>
           </div>
           <div className="flex flex-col items-center gap-3">
             <Phone className="text-primary" size={28} />
             <h3 className="font-display font-bold text-lg">Teléfono</h3>
-            <p className="text-muted-foreground text-sm">+34 912 345 678</p>
+            <p className="text-muted-foreground text-sm">+57 312 449 4548</p>
           </div>
           <div className="flex flex-col items-center gap-3">
             <Mail className="text-primary" size={28} />
             <h3 className="font-display font-bold text-lg">Email</h3>
-            <p className="text-muted-foreground text-sm">hola@sakurasushi.es</p>
+            <p className="text-muted-foreground text-sm">pedidos@sakurasushi.es</p>
           </div>
         </div>
       </div>
