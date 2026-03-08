@@ -6,19 +6,19 @@ const dishes = [
   {
     name: "Nigiri Especial",
     desc: "Salmón, atún y langostino sobre arroz de sushi perfectamente sazonado.",
-    price: "$18.000",
+    price: "$18000",
     img: nigiriImg,
   },
   {
     name: "Maki Roll Sakura",
     desc: "Roll signature con tempura de camarón, aguacate y salsa de anguila.",
-    price: "$22.000",
+    price: "$22000",
     img: makiImg,
   },
   {
     name: "Sashimi Premium",
     desc: "Selección del chef con los cortes más frescos del día.",
-    price: "$28.000",
+    price: "$28000",
     img: sashimiImg,
   },
 ];
